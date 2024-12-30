@@ -1,0 +1,2 @@
+g++ -o calculator MyAPI.cpp Main.cpp
+./calculator
